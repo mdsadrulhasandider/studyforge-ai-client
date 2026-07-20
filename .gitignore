@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.log
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+implementation_plan.md
+task.md
+walkthrough.md
+convert_classes.js
